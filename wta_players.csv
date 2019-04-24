@@ -1,4 +1,4 @@
-200000,X,X,U,19000000,UNK
+ID,FirstName,LastName,Hand,DOB,Country
 200001,Martina,Hingis,R,19800930,SUI
 200002,Mirjana,Lucic,R,19820309,CRO
 200003,Justine,Henin,R,19820601,BEL
@@ -12303,7 +12303,7 @@
 212302,Lesedi Sheya,Jacobs,,19971001,NAM
 212303,Justina,Mikulskyte,,19960206,LTU
 212304,Maria,Siopacha,R,19970102,CYP
-212305,Joselyn Margarita,Treyes Albarrac„çN,,19970629,ECU
+212305,Joselyn Margarita,Treyes AlbarracÔøΩÔøΩN,,19970629,ECU
 212306,Paula,Castro,,19940529,ECU
 212307,Luisanna,Rodriguez,,19930907,DOM
 212308,Karla,Portalatin,,19970819,DOM
@@ -15236,7 +15236,7 @@
 215235,Ulyana,Shirokova,U,20000205,RUS
 215236,Maria,Kononova,U,19970304,RUS
 215237,Isel,Martinez Marcos,U,19920530,ESP
-215238,Selin G„ºLseren,Simsek,U,19990509,TUR
+215238,Selin GÔøΩÔøΩLseren,Simsek,U,19990509,TUR
 215239,Diana Maria,Mihail,R,20000815,ROU
 215240,Marharyta,Smolyak,U,19990603,UKR
 215241,Shoval,Fanani,U,20000124,ISR
@@ -21664,7 +21664,7 @@
 221673,Amisha,Patel,U,20000407,IND
 221674,Tebatso,Duba,U,19981018,RSA
 221675,Carolina,Azadinho,U,20030203,POR
-221676,Ludmila Magal„≠,Alvez,R,20011129,ARG
+221676,Ludmila MagalÔøΩÔøΩ,Alvez,R,20011129,ARG
 221677,Mizuki,Nagano,U,19980427,JPN
 221678,Le Yi,Liu,U,20030828,
 221679,Malak,Mahmoud,U,20010622,EGY
